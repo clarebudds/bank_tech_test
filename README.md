@@ -60,4 +60,4 @@ Testing
 3. To see test coverage
    $ jest --run coverage
 
-![alt text](http://url/to/bank-test.png)
+<img width="266" alt="bank-test" src="https://user-images.githubusercontent.com/73909374/181271550-abaa0e98-3fa3-496e-88be-58f55bd9823f.png">
