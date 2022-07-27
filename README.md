@@ -16,10 +16,7 @@ And a withdrawal of 500 on 14-01-2023
 When she prints her bank statement
 Then she would see
 
-date || credit || debit || balance
-14/01/2023 || || 500.00 || 2500.00
-13/01/2023 || 2000.00 || || 3000.00
-10/01/2023 || 1000.00 || || 1000.00
+<img width="281" alt="image" src="https://user-images.githubusercontent.com/73909374/181274099-b5f2e885-070d-4898-bf9b-ba1301ff9fdd.png">
 
 User stories
 
